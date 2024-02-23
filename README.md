@@ -7,5 +7,9 @@ Learning git and github here.
   I wish I could have a private project for this really newbie messing around.
   
   Bored. Not interested.
-  
-  
+ 
+ 
+  After using git from GUI, I have come to like GIT! Now I see the benefits, I was silly
+  to mock git.
+ 
+	
